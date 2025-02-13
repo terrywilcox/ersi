@@ -5,7 +5,9 @@
     {mod, {ersi_app, []}},
     {applications, [
         kernel,
-        stdlib
+        stdlib,
+        ssl,
+        gun
     ]},
     {env, []},
     {modules, []},
