@@ -1,0 +1,2 @@
+# ersi
+Erlang Slack library
